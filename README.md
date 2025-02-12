@@ -63,5 +63,6 @@ Tic-Tac-Toe 代码中，主要组件和数据的对应关系如下：
    计算 currentSquares 以传递给 Board 组件。  
    calculateWinner 函数:  
    在 Board 组件中调用，检查当前棋盘状态以确定是否有获胜者。  
+   
 总结  
 这些组件和数据共同构成了 Tic-Tac-Toe 游戏的逻辑和界面，允许玩家交替落子并记录游戏状态。每个组件通过 props 和 state 进行数据传递和状态管理。
